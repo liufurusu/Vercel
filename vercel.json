@@ -2,8 +2,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://liufu.cc/$1",
-      "headers": {"Host": "liufu.cc"}
+      "dest": "https://www.youtube.com/$1",
+      "headers": {"Host": "www.youtube.com"}
     }
   ]
 }
