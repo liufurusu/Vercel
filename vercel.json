@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "http://liufu.cc/$1",
+      "dest": "https://liufu.cc/$1",
       "headers": {"Host": "liufu.cc"}
     }
   ]
