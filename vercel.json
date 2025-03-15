@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://www.liufu.cc/$1",
+      "headers": {"Host": "www.liufu.cc"}
+    }
+  ]
+}
